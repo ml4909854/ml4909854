@@ -16,9 +16,10 @@ I am a **Full-stack Web Developer** passionate about building modern web applica
 - **Other:** RESTful APIs, JWT Authentication
 
 ## 🚀 Projects
-- [**Virtual McDonald's**](https://github.com/ml4909854/Virtual-McDonalds): A web-based simulation of the McDonald's menu with dynamic pricing and cart management using React.
-- [**Task Manager**](https://github.com/ml4909854/Task-Manager): A task management application with drag-and-drop functionality, React, and Redux.
-- [**Weather App**](https://github.com/ml4909854/Weather-App): Fetches weather data from the OpenWeather API and displays relevant information based on user input.
+- [**Virtual McDonald's**](https://github.com/ml4909854/Virtual-McDonald-s): A web-based simulation of the McDonald's menu with dynamic pricing and cart management using React.
+- [**SwimLane Ui**](https://github.com/ml4909854/Swimlane_ui): A Swimlane UI is a visual interface used to represent different workflows, processes, or stages in a structured and 
+   organized way.
+- [**Weather App**](https://github.com/ml4909854/Weather-and-Map-Application): Fetches weather data from the OpenWeather API and displays relevant information based on user input.
 - [**Quiz App**](https://github.com/ml4909854/Quiz-App): A fun and interactive quiz application with features like displaying scores and tracking answers.
 
 ## 👀 I’m Interested In...
