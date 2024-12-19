@@ -16,6 +16,7 @@ I am a **Full-stack Web Developer** passionate about building modern web applica
 - **Other:** RESTful APIs, JWT Authentication
 
 ## 🚀 Projects
+- [**Rock Paper Scissor Game**](https://stunning-malasada-d060ed.netlify.app/): The game allows users to play against the computer by selecting their move: Rock 🪨, Paper 📄, or Scissors ✂️.
 - [**Virtual McDonald's**](https://github.com/ml4909854/Virtual-McDonald-s): A web-based simulation of the McDonald's menu with dynamic pricing and cart management using React.
 - [**SwimLane Ui**](https://github.com/ml4909854/Swimlane_ui): A Swimlane UI is a visual interface used to represent different workflows, processes, or stages in a structured and 
    organized way.
@@ -31,6 +32,8 @@ I am a **Full-stack Web Developer** passionate about building modern web applica
 - 🔗 **LinkedIn:** [Mahesh Kumar](https://www.linkedin.com/in/mahesh-kumar-630a29263/)
 - 🌐 **Portfolio:** [Mahesh's Portfolio](https://remarkable-daffodil-24c806.netlify.app/)
 - 🐦 **Twitter:** [@MaheshKuma1502](https://x.com/MaheshKuma1502)
+- 🚀 **NetLify:** [https://app.netlify.com/teams/ml4909854/sites]
+
 
 ## 💞️ I’m Looking to Collaborate On...
 - Full-stack web development projects
