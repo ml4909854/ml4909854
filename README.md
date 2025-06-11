@@ -23,11 +23,13 @@ I am a **Full-Stack Web Developer** who loves building scalable and user-friendl
 ## 🚀 Featured Projects
 ### ✉️ [Email OTP Auth + Blog App](https://github.com/ml4909854/Full_stack_Email_Otp_based_Authentication)  
 This project likely include backend or template for OTP verification. It's designed for reuse and portability for future enhancements. connecting to your Express + Twilio (or other) backend. It handles sending OTPs, verifying them, and managing protected sessions seamlessly. 
-🔗 [Live Demo](https://mobile-number-authentication-fronte.vercel.app)
+🔗 [Live Demo](https://full-stack-email-otp-based-frontend.vercel.app)
 
 ### ✉️ [Mobile_Nubmer_based_Authentication](https://github.com/ml4909854/Mobile_Number_Otp_Authentication)  
 A full-stack MERN application featuring secure **email-based OTP authentication** with a complete **blog system**. Users can register/login using email OTP, write and manage their blogs, and view posts by others.  
-🔗 [Live Demo](https://full-stack-email-otp-based-frontend.vercel.app)
+🔗 [Live Demo](https://mobile-number-authentication-fronte.vercel.app)
+
+---
 
 ### 🔥 [Full Stack Blog App](https://github.com/ml4909854/BlogBackend)
 A MERN-based blog platform with user authentication, blog CRUD operations, and MongoDB for persistent storage.  
@@ -68,12 +70,6 @@ A visual interface to represent workflows/stages of tasks with draggable cards a
 ### ☀️ [Weather App](https://github.com/ml4909854/Weather-and-Map-Application)
 Fetches and displays weather data from OpenWeather API based on user input, with visual weather icons.  
 🔗 [Live Demo](https://weather-map-application.vercel.app/)
-
----
-
-### 📋 [Quiz App](https://github.com/ml4909854/Quiz-App)
-A quiz platform with dynamic question rendering, scoring, and correct answer highlights.  
-🔗 [Live Demo](https://quiz-app-ml4909854.vercel.app/)
 
 ---
 
