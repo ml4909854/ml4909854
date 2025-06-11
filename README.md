@@ -21,6 +21,9 @@ I am a **Full-Stack Web Developer** who loves building scalable and user-friendl
 ---
 
 ## 🚀 Featured Projects
+### ✉️ [Email OTP Auth + Blog App](https://github.com/ml4909854/Full_stack_Email_Otp_based_Authentication)  
+A full-stack MERN application featuring secure **email-based OTP authentication** with a complete **blog system**. Users can register/login using email OTP, write and manage their blogs, and view posts by others.  
+🔗 [Live Demo](https://full-stack-email-otp-based-frontend.vercel.app)
 
 ### 🔥 [Full Stack Blog App](https://github.com/ml4909854/BlogBackend)
 A MERN-based blog platform with user authentication, blog CRUD operations, and MongoDB for persistent storage.  
