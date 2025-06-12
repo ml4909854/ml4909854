@@ -5,7 +5,7 @@ I am a **Full-Stack Web Developer** who loves building scalable and user-friendl
 ---
 
 ## 🌱 Currently Learning
-- Advanced **JavaScript** and **React** patterns
+- Advanced **JavaScript** and **Node** patterns
 - Backend development with **Node.js**, **Express.js**
 - Styling with **Tailwind CSS**
 - Strongly typed code using **TypeScript**
@@ -13,7 +13,7 @@ I am a **Full-Stack Web Developer** who loves building scalable and user-friendl
 ---
 
 ## 💻 Skills
-- **Frontend:** HTML5, CSS3, JavaScript, React, Tailwind CSS
+- **Frontend:** HTML5, CSS3, JavaScript, React, Redux
 - **Backend:** Node.js, Express.js, MongoDB, RESTful APIs, JWT Authentication
 - **Version Control:** Git, GitHub
 - **Tools & Platforms:** VS Code, Postman, Vercel, Netlify
@@ -43,6 +43,12 @@ A clone of Google's Gemini UI, built with responsive design and minimalistic int
 
 ---
 
+### 🧠 [Swimlane UI](https://github.com/ml4909854/Swimlane_ui)
+A visual interface to represent workflows/stages of tasks with draggable cards and transition history.  
+🔗 [Live Demo](https://bejewelled-boba-9d7132.netlify.app)
+
+---
+
 ### 🍔 [Zomato Landing Page](https://github.com/ml4909854/zomato_landing_page)
 A pixel-perfect Zomato homepage clone showcasing modern UI with animations and clean layout.  
 🔗 [Live Demo](https://zomato-landing-page-ampl.vercel.app/)
@@ -51,25 +57,19 @@ A pixel-perfect Zomato homepage clone showcasing modern UI with animations and c
 
 ### 🎮 [Rock Paper Scissor Game](https://github.com/ml4909854/Rock-Paper-Scissor-Game)
 A fun interactive game against the computer using basic JavaScript logic.  
-🔗 [Live Demo](https://rock-paper-scissor-game-ml.netlify.app/)
+🔗 [Live Demo](https://stunning-malasada-d060ed.netlify.app/)
 
 ---
 
 ### 🍟 [Virtual McDonald's](https://github.com/ml4909854/Virtual-McDonald-s)
 A React-based simulation of McDonald’s menu and order cart system. Includes dynamic pricing and smooth UI.  
-🔗 [Live Demo](https://virtual-mcdonalds.vercel.app/)
-
----
-
-### 🧠 [Swimlane UI](https://github.com/ml4909854/Swimlane_ui)
-A visual interface to represent workflows/stages of tasks with draggable cards and transition history.  
-🔗 [Live Demo](https://swimlane-ui-project.vercel.app/)
+🔗 [Live Demo](https://virtual-resturant.netlify.app)
 
 ---
 
 ### ☀️ [Weather App](https://github.com/ml4909854/Weather-and-Map-Application)
 Fetches and displays weather data from OpenWeather API based on user input, with visual weather icons.  
-🔗 [Live Demo](https://weather-map-application.vercel.app/)
+🔗 [Live Demo](https://resplendent-fudge-0de4f2.netlify.app)
 
 ---
 
