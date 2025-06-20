@@ -21,6 +21,10 @@ I am a **Full-Stack Web Developer** who loves building scalable and user-friendl
 ---
 
 ## 🚀 Featured Projects
+### ✉️ [Full Stack Profile ManageMent System](https://github.com/ml4909854/Full_Stack_Profile_Page)  
+This is a full-stack profile management web application where users can register, log in, and create/update their personal profile with an image. The profile image is uploaded using Multer and stored on Cloudinary, while secure user authentication is handled with JWT and bcrypt. 
+🔗 [Live Demo](https://profile-frontend-alpha.vercel.app)
+
 ### ✉️ [Email OTP Auth + Blog App](https://github.com/ml4909854/Full_stack_Email_Otp_based_Authentication)  
 This project likely include backend or template for OTP verification. It's designed for reuse and portability for future enhancements. connecting to your Express + Twilio (or other) backend. It handles sending OTPs, verifying them, and managing protected sessions seamlessly. 
 🔗 [Live Demo](https://full-stack-email-otp-based-frontend.vercel.app)
@@ -58,12 +62,6 @@ A pixel-perfect Zomato homepage clone showcasing modern UI with animations and c
 ### 🎮 [Rock Paper Scissor Game](https://github.com/ml4909854/Rock-Paper-Scissor-Game)
 A fun interactive game against the computer using basic JavaScript logic.  
 🔗 [Live Demo](https://stunning-malasada-d060ed.netlify.app/)
-
----
-
-### 🍟 [Virtual McDonald's](https://github.com/ml4909854/Virtual-McDonald-s)
-A React-based simulation of McDonald’s menu and order cart system. Includes dynamic pricing and smooth UI.  
-🔗 [Live Demo](https://virtual-resturant.netlify.app)
 
 ---
 
