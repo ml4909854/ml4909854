@@ -21,6 +21,11 @@ I am a **Full-Stack Web Developer** who loves building scalable and user-friendl
 ---
 
 ## 🚀 Featured Projects
+### ✉️ [Mern Stack shopping Application](https://github.com/ml4909854/Shoping_Application)  
+MKart is a full-featured MERN stack shopping platform designed for both users and administrators. Users can browse products, manage their cart, and place orders. Admins can manage users, products, and track orders from a powerful admin dashboard. 
+🔗 [Live Demo](https://frontend-shopping-application.vercel.app)
+
+
 ### ✉️ [Full Stack Profile ManageMent System](https://github.com/ml4909854/Full_Stack_Profile_Page)  
 This is a full-stack profile management web application where users can register, log in, and create/update their personal profile with an image. The profile image is uploaded using Multer and stored on Cloudinary, while secure user authentication is handled with JWT and bcrypt. 
 🔗 [Live Demo](https://profile-frontend-alpha.vercel.app)
