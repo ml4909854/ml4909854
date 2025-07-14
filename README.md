@@ -30,6 +30,10 @@ MKart is a full-featured MERN stack shopping platform designed for both users an
 This is a full-stack profile management web application where users can register, log in, and create/update their personal profile with an image. The profile image is uploaded using Multer and stored on Cloudinary, while secure user authentication is handled with JWT and bcrypt. 
 🔗 [Live Demo](https://profile-frontend-alpha.vercel.app)
 
+### ✉️ [Document_Management_Page](https://github.com/ml4909854/Document_Management_Page) 
+A powerful, secure, and responsive **Document Management System** frontend built using **React and Vite**. This application enables users to log in, reset their passwords, upload and view documents, and manage access to their files in a user-friendly and organized way.
+🔗 [Live Demo](https://document-management-frontend-ten.vercel.app)
+
 ### ✉️ [Email OTP Auth + Blog App](https://github.com/ml4909854/Full_stack_Email_Otp_based_Authentication)  
 This project likely include backend or template for OTP verification. It's designed for reuse and portability for future enhancements. connecting to your Express + Twilio (or other) backend. It handles sending OTPs, verifying them, and managing protected sessions seamlessly. 
 🔗 [Live Demo](https://full-stack-email-otp-based-frontend.vercel.app)
