@@ -21,6 +21,11 @@ I am a **Full-Stack Web Developer** who loves building scalable and user-friendl
 ---
 
 ## 🚀 Featured Projects
+### ✉️ [JuiceShop - MERN Stack E-Commerce Platform](https://github.com/ml4909854/Juice_backend)  
+A full-stack fresh juice delivery application built with the MERN stack (MongoDB, Express, React, Node.js). Users can browse juices by category, add to cart, wishlist, and checkout with multiple payment options (UPI, Cards, QR, COD). Features user authentication, order tracking, image uploads, and a complete admin panel for managing products, orders, and users. Deployed on Vercel and Render.
+🔗 [Live Demo](https://juice-frontend-theta.vercel.app)
+
+
 ### ✉️ [Mern Stack shopping Application](https://github.com/ml4909854/Shoping_Application)  
 MKart is a full-featured MERN stack shopping platform designed for both users and administrators. Users can browse products, manage their cart, and place orders. Admins can manage users, products, and track orders from a powerful admin dashboard. 
 🔗 [Live Demo](https://frontend-shopping-application.vercel.app)
